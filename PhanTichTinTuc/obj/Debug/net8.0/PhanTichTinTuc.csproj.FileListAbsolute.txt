@@ -1,0 +1,14 @@
+C:\Users\x\source\repos\PhanTichTinTuc\PhanTichTinTuc\bin\Debug\net8.0\PhanTichTinTuc.exe
+C:\Users\x\source\repos\PhanTichTinTuc\PhanTichTinTuc\bin\Debug\net8.0\PhanTichTinTuc.deps.json
+C:\Users\x\source\repos\PhanTichTinTuc\PhanTichTinTuc\bin\Debug\net8.0\PhanTichTinTuc.runtimeconfig.json
+C:\Users\x\source\repos\PhanTichTinTuc\PhanTichTinTuc\bin\Debug\net8.0\PhanTichTinTuc.dll
+C:\Users\x\source\repos\PhanTichTinTuc\PhanTichTinTuc\bin\Debug\net8.0\PhanTichTinTuc.pdb
+C:\Users\x\source\repos\PhanTichTinTuc\PhanTichTinTuc\obj\Debug\net8.0\PhanTichTinTuc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\source\repos\PhanTichTinTuc\PhanTichTinTuc\obj\Debug\net8.0\PhanTichTinTuc.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\PhanTichTinTuc\PhanTichTinTuc\obj\Debug\net8.0\PhanTichTinTuc.AssemblyInfo.cs
+C:\Users\x\source\repos\PhanTichTinTuc\PhanTichTinTuc\obj\Debug\net8.0\PhanTichTinTuc.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\PhanTichTinTuc\PhanTichTinTuc\obj\Debug\net8.0\PhanTichTinTuc.dll
+C:\Users\x\source\repos\PhanTichTinTuc\PhanTichTinTuc\obj\Debug\net8.0\refint\PhanTichTinTuc.dll
+C:\Users\x\source\repos\PhanTichTinTuc\PhanTichTinTuc\obj\Debug\net8.0\PhanTichTinTuc.pdb
+C:\Users\x\source\repos\PhanTichTinTuc\PhanTichTinTuc\obj\Debug\net8.0\PhanTichTinTuc.genruntimeconfig.cache
+C:\Users\x\source\repos\PhanTichTinTuc\PhanTichTinTuc\obj\Debug\net8.0\ref\PhanTichTinTuc.dll
